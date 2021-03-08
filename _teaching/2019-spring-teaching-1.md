@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2019-Spring
 venue: "University of Florida"
-date: 2018-01-01
+date: 2019-01-06
 location: "Gainesville, FL, USA"
 ---
