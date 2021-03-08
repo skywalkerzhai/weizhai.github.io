@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI for Resilience Group @HKBU (AIR Group)"
+title                    : "AI for Resilient City (AIR City)"
 title_separator          : "-"
 name                     : &name "Wei Zhai"
-description              : &description "Ph.D. Candidate/Incoming Assistant Professor at HKBU"
+description              : &description "Ph.D. Candidate at Univ. of Florida"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Zhai"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate/Incoming Assistant Professor at HKBU"
+  bio              : "Ph.D. Candidate at Univ. of Florida"
   location         : "Hong Kong SAR, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Vz8kG8IAAAAJ&view_op=list_works&sortby=pubdate"
