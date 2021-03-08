@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Wei Zhai is currently a PhD candidate in Urban and Regional Planning at University of Florida. Wei  applies a multidisciplinary approach to bridge Spatial Data Science with Urban Resilience and Social Vulnerability, moving from data to information, knowledge, wisdom, and action. 
+Wei Zhai currently a Ph.D candidate in Urban and Regional Planning at University of Florida. Wei also holds a dual master's degree in Electrical and Computer Engineering at UF. Prior to UF, Wei got a master's degree from Tsinghua University and bachelor's degree from Hunan University, both in urban planning. Wei is currently leading an AI for Earth Grant from Microsoft. <br/> Research Interests: Social Vulnerability, Urban resilience, Spatial Data Science, GeoAI, Transport Geography
