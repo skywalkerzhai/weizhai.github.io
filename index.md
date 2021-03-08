@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+##  Wei Zhai's Personal Page
 
-You can use the [editor on GitHub](https://github.com/skywalkerzhai/weizhai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wei Zhai is currently a PhD candidate in Urban and Regional Planning at University of Florida. Wei  applies a multidisciplinary approach to bridge Spatial Data Science with Urban Resilience and Social Vulnerability, moving from data to information, knowledge, wisdom, and action. 
 
 ### Markdown
 
