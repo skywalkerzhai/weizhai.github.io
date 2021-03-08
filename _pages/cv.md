@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Urban Planning, Hunan University, 2015
+* M.S. in Urban Planning, Tsinghua University, 2017
+* M.S. in Computer Engineering, University of Florida, 2020
+* Ph.D in Urban and Regional Planning, University of Florida, 2021 (expected)
 
 Work experience
 ======
