@@ -8,4 +8,58 @@ redirect_from:
   - /about.html
 ---
 
-Wei Zhai currently a Ph.D candidate in Urban and Regional Planning at University of Florida. Wei also holds a dual master's degree in Electrical and Computer Engineering at UF. Prior to UF, Wei got a master's degree from Tsinghua University and bachelor's degree from Hunan University, both in urban planning. Wei is currently leading an AI for Earth Grant from Microsoft. <br/><br/> Research Interests: Social Vulnerability, Urban resilience, Spatial Data Science, GeoAI, Transport Geography
+Wei Zhai is currently a PhD candidate in Urban and Regional Planning at University of Florida. Wei  applies a multidisciplinary approach to bridge Spatial Data Science with Urban Resilience and Social Vulnerability, moving from data to information, knowledge, wisdom, and action. Wei is currently leading an AI for Earth Grant from Microsoft. 
+<br/><br/> 
+Research Interests: Social Vulnerability, Urban resilience, Spatial Data Science, GeoAI, Transport Geography
+
+Education
+======
+* B.S. in Urban Planning, Hunan University, 2015
+* M.S. in Urban Planning, Tsinghua University, 2017
+* M.S. in Computer Engineering, University of Florida, 2020
+* Ph.D in Urban and Regional Planning, University of Florida, 2021 (expected)
+
+
+Work experience
+======
+* 2017-2021  University of Florida
+  * Research Assistant
+
+* 2015-2017  Tsinghua University
+  * Research Assistant
+
+* 2014 Fall &2017 Fall  China Academy of Urban Planning & Design
+  * Intern
+
+Publications
+======
+* Year 2021
+  * Fu, X., Zhai, W. (Corresponding Author) (2021).  Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic . Sustainable Cities and Society. (https://doi.org/10.1016/j.scs.2021.102757)
+
+  * Zhai, W. , Liu, M., Fu, X., Peng, Z.R.* (2021). American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. Annals of the American Association of Geographers. (Forthcoming)
+
+  * Yuan, F., Li, M., Liu, R. *, Zhai, W., Qi, B. (2021). Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. International Journal of Information Management. (https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
+
+
+* Year 2020
+
+  * Zhai, W., Peng, Z. R.* (2020). Damage assessment using Google Street View: Evidence from Hurricane Michael in Mexico Beach, Florida. Applied Geography. (https://doi.org/10.1016/j.apgeog.2020.102252)
+
+  * Zhai, W., Peng, Z. R. *, & Yuan, F. (2020). Examine the effects of neighborhood equity on disaster situational awareness: Harness machine learning and geotagged Twitter data. International Journal of Disaster Risk Reduction, 101611. (https://doi.org/10.1016/j.ijdrr.2020.101611)
+
+  * Zhai, W., Liu, M., & Peng, Z. R. * (2020). Social distancing and inequality in the United States amid COVID-19 outbreak. Environment and Planning A: Economy and Space, 0308518X20932576. (https://journals.sagepub.com/doi/10.1177/0308518X20932576 )
+
+  * Zhai, W., Peng, Z. R. * (2020). Where to buy a house in the United States amid COVID-19? Environment and Planning A: Economy and Space, 0308518X20946041. (https://journals.sagepub.com/doi/10.1177/0308518X20946041) 
+
+  * Bai, X., Zhai, W. (Corresponding Author), Steiner, R. L., & He, Z. (2020). Exploring extreme commuting and its relationship to land use and socioeconomics in the central Puget Sound. Transportation Research Part D: Transport and Environment, 88, 102574. (https://doi.org/10.1016/j.trd.2020.102574)
+
+  * Gu, C., Ye, X. *, Cao, Q., Guan, W., Peng, C., Wu, Y., & Zhai, W. (2020). System dynamics modelling of urbanization under energy constraints in China. Scientific Reports, 10(1), 1-16. (https://doi.org/10.1038/s41598-020-66125-3)
+
+
+* Year 2019
+
+  * Zhai, W., Bai, X., Shi, Y., Han, Y., Peng, Z. R. *, & Gu, C. (2019). Beyond Word2vec: An approach for urban functional region extraction and identification by combining Place2vec and POIs. Computers, Environment and Urban Systems, 74, 1-12. (https://doi.org/10.1016/j.compenvurbsys.2018.11.008)
+
+  * Zhai, W., Bai, X., Peng, Z. R. *, & Gu, C. (2019). From edit distance to augmented space-time-weighted edit distance: Detecting and clustering patterns of human activities in Puget Sound region. Journal of Transport Geography, 78, 41-55. (https://doi.org/10.1016/j.jtrangeo.2019.05.003)
+
+  * Zhai, W., Bai, X., Peng, Z. R. *, & Gu, C. (2019). A bottom-up transportation network efficiency measuring approach: A case study of taxi efficiency in New York City. Journal of Transport Geography, 80. 102502. (https://doi.org/10.1016/j.jtrangeo.2019.102502)
