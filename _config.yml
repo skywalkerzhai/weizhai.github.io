@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI for Resilient City (AIR City)"
+title                    : "Urban Science and Resilience Group"
 title_separator          : "-"
 name                     : &name "Wei Zhai"
 description              : &description "Ph.D. Candidate at Univ. of Florida"
