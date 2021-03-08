@@ -14,11 +14,10 @@ Research Interests: Social Vulnerability, Urban resilience, Spatial Data Science
 
 Education
 ======
-* B.S. in Urban Planning, Hunan University, 2015
-* M.S. in Urban Planning, Tsinghua University, 2017
-* M.S. in Computer Engineering, University of Florida, 2020
 * Ph.D in Urban and Regional Planning, University of Florida, 2021 (expected)
-
+* M.S. in Computer Engineering, University of Florida, 2020
+* M.S. in Urban Planning, Tsinghua University, 2017
+* B.S. in Urban Planning, Hunan University, 2015
 
 Work experience
 ======
