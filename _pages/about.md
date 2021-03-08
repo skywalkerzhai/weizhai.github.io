@@ -43,5 +43,5 @@ Teaching experience
   * Guest Lecture. 2019, Graduate Level, Course: DCP 7794 Doctoral Seminar
 
 * Tsinghua University
-  * Teaching Assistant, 2016, Course: Introduction to Human Geography
+  * Teaching Assistant, 2016, Undergraduate Level, Course: Introduction to Human Geography
 
