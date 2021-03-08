@@ -30,3 +30,18 @@ Work experience
 
 * 2014 Fall &2017 Fall  China Academy of Urban Planning & Design
   * Intern
+
+Teaching experience
+======
+* University of Florida
+  * Co-instructor. 2021, Graduate Level, Course: URP 6821 Transportation and Land Use Model
+  * Co-instructor. 2019, Graduate Level, Course: URP 6821 Transportation and Land Use Model (Evaluation 4.75/5.0)  
+  * Guest Lecture. 2020, Graduate Level, Course: DCP Doctoral Core 4
+  * Guest Lecture. 2020, Graduate Level, Course: Doctoral Core 3: Dissertation Preparation
+  * Guest Lecture. 2020, Graduate Level, Course: DCP7911 Advanced Design, Construction and Planning Research II
+  * Guest Lecture. 2020, Graduate Level, Course: DCP 7794 Doctoral Seminar                                                 
+  * Guest Lecture. 2019, Graduate Level, Course: DCP 7794 Doctoral Seminar
+
+* Tsinghua University
+  * Teaching Assistant, 2016, Course: Introduction to Human Geography
+
