@@ -11,6 +11,8 @@ redirect_from:
 Wei Zhai is currently a PhD candidate in Urban and Regional Planning at University of Florida. Wei  applies a multidisciplinary approach to bridge Spatial Data Science with Urban Resilience and Social Vulnerability, moving from data to information, knowledge, wisdom, and action. Wei is currently leading an AI for Earth Grant from Microsoft. 
 <br/><br/> 
 Research Interests: Social Vulnerability, Urban resilience, Spatial Data Science, GeoAI, Transport Geography
+<br/><br/> 
+Email: wei.zhai@ufl.edu
 
 Education
 ======
