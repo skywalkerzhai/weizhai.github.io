@@ -23,13 +23,13 @@ Education
 
 Work experience
 ======
-* 2017-2021  University of Florida
+* 2017-2021, University of Florida
   * Research Assistant
 
-* 2015-2017  Tsinghua University
+* 2015-2017, Tsinghua University
   * Research Assistant
 
-* 2014 Fall &2017 Fall  China Academy of Urban Planning & Design
+* 2014 Fall &2017 Fall, China Academy of Urban Planning & Design
   * Intern
 
 Teaching experience
