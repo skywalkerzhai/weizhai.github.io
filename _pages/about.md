@@ -12,7 +12,7 @@ Wei Zhai is an incoming Assistant Professor in the Department of Geography at Ho
 <br/><br/> 
 Research Interests: Social Vulnerability, Urban resilience, Spatial Data Science, GeoAI, Transport Geography
 <br/><br/> 
-Email: wei.zhai@ufl.edu
+Email: weizhai@hkbu.edu.hk
 
 Education
 ======
@@ -23,6 +23,9 @@ Education
 
 Work experience
 ======
+* 2021-, Hong Kong Baptist University
+  * Assistant Professor
+
 * 2017-2021, University of Florida
   * Research Assistant
 
@@ -37,15 +40,16 @@ Teaching experience
 * University of Florida
   * Co-instructor. 2021, Graduate Level, Course: URP 6821 Transportation and Land Use Model
   * Co-instructor. 2019, Graduate Level, Course: URP 6821 Transportation and Land Use Model (Evaluation 4.75/5.0)  
-  * Guest Lecture. 2020, Graduate Level, Course: DCP Doctoral Core 4
-  * Guest Lecture. 2020, Graduate Level, Course: Doctoral Core 3: Dissertation Preparation
-  * Guest Lecture. 2020, Graduate Level, Course: DCP7911 Advanced Design, Construction and Planning Research II
-  * Guest Lecture. 2020, Graduate Level, Course: DCP 7794 Doctoral Seminar                                                 
-  * Guest Lecture. 2019, Graduate Level, Course: DCP 7794 Doctoral Seminar
 
 * Tsinghua University
   * Teaching Assistant, 2016, Undergraduate Level, Course: Introduction to Human Geography
 
 Journal Reviewer
 ======
-Annals of the American Association of Geographers; Cities; Travel Behavior and Society; Journal of Advanced Transportation; Computational Urban Science; Urban Planning International (国际城市规划)；城市与区域规划研究
+Annals of the American Association of Geographers; 
+Cities; 
+Travel Behavior and Society; 
+Journal of Advanced Transportation; 
+Computational Urban Science;
+国际城市规划；
+城市与区域规划研究
