@@ -46,10 +46,10 @@ Teaching experience
 
 Journal Reviewer
 ======
-Annals of the American Association of Geographers; 
-Cities; 
-Travel Behavior and Society; 
-Journal of Advanced Transportation; 
-Computational Urban Science;
-国际城市规划；
-城市与区域规划研究
+* Annals of the American Association of Geographers
+* Cities
+* Travel Behavior and Society
+* Journal of Advanced Transportation
+* Computational Urban Science
+* 国际城市规划
+* 城市与区域规划研究
