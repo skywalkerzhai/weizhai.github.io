@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Urban Science and Resilience Group"
+title                    : "City Science and Resilience (CSR)"
 title_separator          : "-"
 name                     : &name "Wei Zhai"
 description              : &description "Ph.D. Candidate at Univ. of Florida"
