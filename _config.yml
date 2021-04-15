@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "City Science and Resilience (CSR)"
 title_separator          : "-"
 name                     : &name "Wei Zhai"
-description              : &description "Incoming Asst. Prof. @HKBU"
+description              : &description "Ph.D., Incoming Asst. Prof. @HKBU"
 url                      : https://skywalkerzhai.github.io/weizhai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skywalkerzhai/weizhai.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Zhai"
   avatar           : "weizhai.jpg"
-  bio              : "Incoming Asst. Prof. @HKBU"
-  location         : "Gainesville, FL, USA"
+  bio              : "Ph.D.,Incoming Asst. Prof. @HKBU"
+  location         : "Kowloon, Hong Kong SAR, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Vz8kG8IAAAAJ&view_op=list_works&sortby=pubdate"
   email            : 
