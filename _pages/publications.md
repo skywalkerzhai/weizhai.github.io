@@ -7,7 +7,7 @@ author_profile: true
 
 * Year 2021
 
-  * Bai, X., Steiner, R, **Zhai, W. (Corresponding Author)** (2021). Beyond Walking within the Neighborhood——How Have Smart Growth Strategies Affected the Travel Behavior of Older Adults? *Journal of Planning Education and Research.* (Forthcoming).
+  * Bai, X., Steiner, R, **Zhai, W. (Corresponding Author)** (2021). Beyond Neighborhood Design——Exploring the Effects of Smart Growth on Older Adults’ Travel Behavior over Time. *Journal of Planning Education and Research.* (Forthcoming).
   
   * Fu, X., **Zhai, W. (Corresponding Author)** (2021).  Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic. *Sustainable Cities and Society.* [[Link]](https://doi.org/10.1016/j.scs.2021.102757)
 
