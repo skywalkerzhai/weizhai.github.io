@@ -17,10 +17,8 @@ Email: weizhai@hkbu.edu.hk
 Education
 ======
 * Ph.D. in Urban and Regional Planning, University of Florida, 2021
-  * Dissertation title: Evaluating resilience strategies for disaster recoovery planning: From top-down planning to bottom-up response
 * M.S. in Computer Engineering, University of Florida, 2020
 * M.S. in Urban Planning, Tsinghua University, 2017
-  * Thesis title: Integration of urban functional regions and transportation in comprehensive planning: A case study of Wuxi
 * B.S. in Urban Planning, Hunan University, 2015
 
 Work experience
