@@ -32,7 +32,7 @@ Work experience
 * 2015-2017, Tsinghua University
   * Research Assistant
 
-* 2014 Fall &2017 Fall, China Academy of Urban Planning & Design
+* 2014 Fall &2016 Fall, China Academy of Urban Planning & Design
   * Intern
 
 Teaching experience
