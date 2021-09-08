@@ -11,7 +11,7 @@ author_profile: true
   
   * Fu, X., **Zhai, W. (Corresponding Author)** (2021).  Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic. *Sustainable Cities and Society.* [[Link]](https://doi.org/10.1016/j.scs.2021.102757)
 
-  * **Zhai, W.**, Liu, M., Fu, X., Peng, Z.R. (2021). American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.* [[Link]](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
+  * **Zhai, W. (Corresponding Author)**, Liu, M., Fu, X., Peng, Z.R. (2021). American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.* [[Link]](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
 
   * Yuan, F., Li, M., Liu, R., **Zhai, W.**, Qi, B. (2021). Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. *International Journal of Information Management.* [[Link]](https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
 
