@@ -17,9 +17,9 @@ Email: weizhai@hkbu.edu.hk
 Education
 ======
 * Ph.D. in Urban and Regional Planning, University of Florida, 2021
-* M.S. in Computer Engineering, University of Florida, 2020
-* M.S. in Urban Planning, Tsinghua University, 2017
-* B.S. in Urban Planning, Hunan University, 2015
+* M.Eng. in Computer Engineering, University of Florida, 2020
+* M.Eng. in Urban Planning, Tsinghua University, 2017
+* B.Eng. in Urban Planning, Hunan University, 2015
 
 Work experience
 ======
