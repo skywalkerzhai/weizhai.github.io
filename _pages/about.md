@@ -48,13 +48,3 @@ Teaching experience
 * Tsinghua University
   * Teaching Assistant, 2016, Undergraduate Level, Course: Introduction to Human Geography
 
-Journal Reviewer
-======
-* Annals of the American Association of Geographers
-* Cities
-* Travel Behavior and Society
-* Journal of Advanced Transportation
-* Computational Urban Science
-* Internatiaonl Journal of Disaster Risk Reduction
-* 国际城市规划
-* 城市与区域规划研究
