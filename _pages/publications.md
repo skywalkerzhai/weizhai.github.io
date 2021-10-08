@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Year 2021
-  * **Zhai, W. (Corresponding Author)**, Yue, H. Economic resilience during COVID-19: An insight from permanent business closures. *Environment and Planning A: Economy and Space* (Accepted)
+  * **Zhai, W. (Corresponding Author)**, Yue, H. Economic resilience during COVID-19: An insight from permanent business closures. *Environment and Planning A: Economy and Space.* (Accepted)
   * **Zhai, W. (Corresponding Author)**, Fu, X., Liu, M., Peng, Z. R (2021). The impact of ethnic segregation on neighborhood-level social distancing in the United States amid the early outbreak of COVID-19. *Urban Studies.* (Accepted)
  
   * **Zhai, W. (Corresponding Author)**, Peng, Z. R, Bai, X. (2021). Prototypical Resilience Projects for Postdisaster Recovery Planning: From Theory to Action. *Journal of Planning Education and Research.* [[Link]](https://journals.sagepub.com/eprint/2XZCVZQQNWAKW7QDWK4H/full)
