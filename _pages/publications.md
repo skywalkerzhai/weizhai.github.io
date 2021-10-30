@@ -29,15 +29,15 @@ author_profile: true
 
   * Zhai, W., Peng, Z. R. (2020). Where to buy a house in the United States amid COVID-19? *Environment and Planning A: Economy and Space*, 0308518X20946041. [[Link]](https://journals.sagepub.com/doi/10.1177/0308518X20946041) 
 
-  * Bai, X., **Zhai, W.***, Steiner, R. L., & He, Z. (2020). Exploring extreme commuting and its relationship to land use and socioeconomics in the central Puget Sound. *Transportation Research Part D: Transport and Environment*, 88, 102574. [[Link]](https://doi.org/10.1016/j.trd.2020.102574)
+  * Bai, X., Zhai, W.*, Steiner, R. L., & He, Z. (2020). Exploring extreme commuting and its relationship to land use and socioeconomics in the central Puget Sound. *Transportation Research Part D: Transport and Environment*, 88, 102574. [[Link]](https://doi.org/10.1016/j.trd.2020.102574)
 
-  * Gu, C., Ye, X. , Cao, Q., Guan, W., Peng, C., Wu, Y., & **Zhai, W.** (2020). System dynamics modelling of urbanization under energy constraints in China. *Scientific Reports*, 10(1), 1-16. [[Link]](https://doi.org/10.1038/s41598-020-66125-3)
+  * Gu, C., Ye, X. , Cao, Q., Guan, W., Peng, C., Wu, Y., & Zhai, W. (2020). System dynamics modelling of urbanization under energy constraints in China. *Scientific Reports*, 10(1), 1-16. [[Link]](https://doi.org/10.1038/s41598-020-66125-3)
 
 
 * Year 2019
 
-  * **Zhai, W.**, Bai, X., Shi, Y., Han, Y., Peng, Z. R., & Gu, C. (2019). Beyond Word2vec: An approach for urban functional region extraction and identification by combining Place2vec and POIs. *Computers, Environment and Urban Systems*, 74, 1-12. [[Link]](https://doi.org/10.1016/j.compenvurbsys.2018.11.008)
+  * Zhai, W., Bai, X., Shi, Y., Han, Y., Peng, Z. R., & Gu, C. (2019). Beyond Word2vec: An approach for urban functional region extraction and identification by combining Place2vec and POIs. *Computers, Environment and Urban Systems*, 74, 1-12. [[Link]](https://doi.org/10.1016/j.compenvurbsys.2018.11.008)
 
-  * **Zhai, W.**, Bai, X., Peng, Z. R. , & Gu, C. (2019). From edit distance to augmented space-time-weighted edit distance: Detecting and clustering patterns of human activities in Puget Sound region. *Journal of Transport Geography*, 78, 41-55. [[Link]](https://doi.org/10.1016/j.jtrangeo.2019.05.003)
+  * Zhai, W., Bai, X., Peng, Z. R. , & Gu, C. (2019). From edit distance to augmented space-time-weighted edit distance: Detecting and clustering patterns of human activities in Puget Sound region. *Journal of Transport Geography*, 78, 41-55. [[Link]](https://doi.org/10.1016/j.jtrangeo.2019.05.003)
 
-  * **Zhai, W.**, Bai, X., Peng, Z. R. , & Gu, C. (2019). A bottom-up transportation network efficiency measuring approach: A case study of taxi efficiency in New York City. *Journal of Transport Geography*, 80. 102502. [[Link]](https://doi.org/10.1016/j.jtrangeo.2019.102502)
+  * Zhai, W., Bai, X., Peng, Z. R. , & Gu, C. (2019). A bottom-up transportation network efficiency measuring approach: A case study of taxi efficiency in New York City. *Journal of Transport Geography*, 80. 102502. [[Link]](https://doi.org/10.1016/j.jtrangeo.2019.102502)
