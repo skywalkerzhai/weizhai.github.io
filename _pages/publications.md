@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(* Corresponding Author)
+(# Corresponding Author)
 * Year 2021
   * **Zhai, W.#**, Yue, H. Economic resilience during COVID-19: An insight from permanent business closures. *Environment and Planning A: Economy and Space.* [[Link]](https://doi.org/10.1177/0308518X211055181)
   * **Zhai, W.#**, Fu, X., Liu, M., Peng, Z. R (2021). The impact of ethnic segregation on neighborhood-level social distancing in the United States amid the early outbreak of COVID-19. *Urban Studies.* [[Link]](https://doi.org/10.1177/00420980211050183)
