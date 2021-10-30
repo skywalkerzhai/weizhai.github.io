@@ -11,7 +11,7 @@ author_profile: true
   * **Zhai, W.#**, Fu, X., Liu, M., Peng, Z. R (2021). The impact of ethnic segregation on neighborhood-level social distancing in the United States amid the early outbreak of COVID-19. *Urban Studies.* [[Link]](https://doi.org/10.1177/00420980211050183)
  
   * **Zhai, W.#**, Peng, Z. R, Bai, X. (2021). Prototypical Resilience Projects for Postdisaster Recovery Planning: From Theory to Action. *Journal of Planning Education and Research.* [[Link]](https://journals.sagepub.com/eprint/2XZCVZQQNWAKW7QDWK4H/full)
-  
+ 
   * Bai, X., Steiner, R, **Zhai, W.#** (2021). Beyond Neighborhood Design——Exploring the Effects of Smart Growth on Older Adults’ Travel Behavior over Time. *Journal of Planning Education and Research.* [[Link]](https://doi.org/10.1177/0739456X211020352)
   
   * Fu, X., **Zhai, W.#** (2021).  Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic. *Sustainable Cities and Society.* [[Link]](https://doi.org/10.1016/j.scs.2021.102757)
