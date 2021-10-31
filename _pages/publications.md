@@ -18,7 +18,7 @@ author_profile: true
 
   * **Zhai, W.#** , Liu, M., Fu, X., Peng, Z.R. (2021). American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.* [[Link]](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
 
-  * Yuan, F., Li, M., Liu, R., Zhai, W.*, Qi, B. (2021). Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. *International Journal of Information Management.* [[Link]](https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
+  * Yuan, F., Li, M., Liu, R., Zhai, W., Qi, B. (2021). Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. *International Journal of Information Management.* [[Link]](https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
 
 
 * Year 2020
