@@ -6,9 +6,9 @@ author_profile: true
 ---
 (# Corresponding Author)
 * Year 2021
- * **Zhai, W.#** , Liu, M., Fu, X., Peng, Z.R. (2021). American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.* [[Link]](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
+  * **Zhai, W.#** , Liu, M., Fu, X., Peng, Z.R. (2021). American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.* [[Link]](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
   
- * **Zhai, W.#**, Yue, H. Economic resilience during COVID-19: An insight from permanent business closures. *Environment and Planning A: Economy and Space.* [[Link]](https://doi.org/10.1177/0308518X211055181)
+  * **Zhai, W.#**, Yue, H. Economic resilience during COVID-19: An insight from permanent business closures. *Environment and Planning A: Economy and Space.* [[Link]](https://doi.org/10.1177/0308518X211055181)
  
   * **Zhai, W.#**, Fu, X., Liu, M., Peng, Z. R (2021). The impact of ethnic segregation on neighborhood-level social distancing in the United States amid the early outbreak of COVID-19. *Urban Studies.* [[Link]](https://doi.org/10.1177/00420980211050183)
  
