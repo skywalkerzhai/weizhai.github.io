@@ -3,6 +3,7 @@ title: "GEOG1005 Geography and the Contemporary World"
 collection: teaching
 type: "Undergraduate Course"
 venue: "Hong Kong Baptist University"
+date: 2021-2024
 location: "Hong Kong SAR, China"
 ---
 
