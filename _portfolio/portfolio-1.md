@@ -1,5 +1,5 @@
 ---
-title: "Research Topic 1.Disaster response, big data, and Artificial Intelligence"
+title: "Research Topic 1.Disaster Response, Artificial Intelligence, and Social Equity"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='600'>"
 collection: portfolio
 ---
