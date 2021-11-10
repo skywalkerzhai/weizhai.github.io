@@ -1,6 +1,6 @@
 ---
 title: "Research Topic 2.Resilience, plan evaluation, and natural language processing"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_sentiment.jpg' width='800'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan evaluation.jpg' width='800'>"
 collection: portfolio
 ---
 * Paper 1: [Prototypical Resilience Projects for Postdisaster Recovery Planning: From Theory to Action](https://doi.org/10.1177/0739456X211048928)
