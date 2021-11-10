@@ -1,1 +1,0 @@
-https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat
