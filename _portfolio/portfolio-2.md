@@ -1,5 +1,5 @@
 ---
-title: "2.Disaster Response and Twitter Analysis"
+title: "2. Disaster Response and Twitter Analysis"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_sentiment.jpg'>"
 collection: portfolio
 ---
