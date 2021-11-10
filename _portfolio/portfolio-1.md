@@ -10,6 +10,8 @@ Assessing damage on the ground is a challenging task for humanitarian organizati
 (1) Can deep learning be successfully applied to automate the process of evaluating postdisaster damage using GSV images?  \
 (2) Does damage assessment using GSV images provide a different insight, compared with existing approaches, such as remote sensing imagery?
 
+Key words: Damage assessment; Google street view;Deep learning
+
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/DL_damage.jpg'>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nGs48HGnRN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
