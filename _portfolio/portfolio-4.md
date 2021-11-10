@@ -1,6 +1,6 @@
 ---
 title: "Disease, health city, and social equity"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/COVID-19_minority.jpg'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/COVID-19_minority.jpg' width='600'>"
 collection: portfolio
 ---
 
