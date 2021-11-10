@@ -1,5 +1,5 @@
 ---
-title: "1.Disaster Damage Assessment and Google Street View"
+title: "1.Disaster response, big data, and Artificial Intelligence"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='800'>"
 collection: portfolio
 ---
