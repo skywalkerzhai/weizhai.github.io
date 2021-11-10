@@ -1,6 +1,6 @@
 ---
 title: "Disaster Damage and Google Street View Image"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://[your GitHub username].github.io/images/damag_GSV.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg'>"
 collection: portfolio
 ---
 
