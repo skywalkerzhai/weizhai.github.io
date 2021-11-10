@@ -1,5 +1,5 @@
 ---
-title: "3.Disaster Recovery: Plan Evaluation with "
+title: "3.Disaster Recovery: Plan Evaluation"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan evaluation.jpg'>"
 collection: portfolio
 ---
