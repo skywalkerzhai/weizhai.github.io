@@ -1,6 +1,6 @@
 ---
 title: "3.Disaster Recovery: Plan Evaluation with NLP"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan evaluation.jpg'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan evaluation.jpg' width='800'>"
 collection: portfolio
 ---
 [Paper Download](https://doi.org/10.1177/0739456X211048928)
