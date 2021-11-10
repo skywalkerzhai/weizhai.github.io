@@ -10,3 +10,4 @@ Assessing damage on the ground is a challenging task for humanitarian organizati
 (2) Does damage assessment using GSV images provide a different insight, compared with existing approaches, such as remote sensing imagery?
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PcSUEo0P0GU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
