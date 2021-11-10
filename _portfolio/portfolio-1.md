@@ -1,6 +1,6 @@
 ---
 title: "1.Disaster Damage Assessment and Google Street View"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='600'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='800'>"
 collection: portfolio
 ---
 [Paper Download](https://doi.org/10.1016/j.apgeog.2020.102252)
