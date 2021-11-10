@@ -1,5 +1,5 @@
 ---
-title: "Research Topic 2. Resilience, Plan Evaluation, and Natural Language Processing"
+title: "Research Theme 2. Resilience, Plan Evaluation, and Natural Language Processing"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan evaluation.jpg' width='600'>"
 collection: portfolio
 ---
