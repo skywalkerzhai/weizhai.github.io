@@ -1,5 +1,5 @@
 ---
-title: "COVID-19：A New Insight for Resilience and Social Vulerability"
+title: "Research Theme 3: COVID-19：A New Insight for Resilience and Social Vulerability"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/COVID-19_minority.jpg' width='600'>"
 collection: portfolio
 ---
