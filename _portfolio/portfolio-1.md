@@ -1,6 +1,6 @@
 ---
 title: "Research Topic 1.Disaster response, big data, and Artificial Intelligence"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='800'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='600'>"
 collection: portfolio
 ---
 * Paper 1: [Damage assessment using Google Street View: Evidence from Hurricane Michael in Mexico Beach, Florida](https://doi.org/10.1016/j.apgeog.2020.102252)
@@ -25,12 +25,12 @@ collection: portfolio
 <hr style="border:2px solid blue"> </hr>
 &nbsp;
 &nbsp;
-* Paper 3: [Prototypical Resilience Projects for Postdisaster Recovery Planning: From Theory to Action](https://doi.org/10.1177/0739456X211048928)
 
-  * Rebuilding communities requires an actionable approach to explicitly translate the concept of resilience into postdisaster recovery planning. Through clustering analysis using project titles and project summary, 940 resilience projects are grouped into infrastructure prototypes, economic development prototypes, housing prototypes, and environmental prototypes among the Hurricane Matthew Resilient Redevelopment Plans. This research evaluated the characteristics of all prototypes based on the robustness-rapidity-inclusiveness framework. It also assessed the economic and environmental impacts, community involvement, and governance of identified prototypes. By posing a series of questions for practitioners, this research is a starting point for practitioners to build resilience in postdisaster recovery planning.
+* Paper 3: [Social media for enhanced understanding of disaster resilience during Hurricane Florence](https://doi.org/10.1016/j.ijinfomgt.2020.102289)
 
-  * **Keywords: Postdisaster recovery planning, Resilience strategies, Plan evaluation, Natural language processing, Clustering analysis**
+  * Citizens with different demographic characters presented varying responses and behaviors in the same disasters. Their divergent responses can impact their actual damages during crises. Previous studies have employed social media for analyzing citizens’ crisis responses. However, these studies missed the demographic dimension. To resolve this limitation, this research proposes three objectives: 1) to explore the variances of sentiment polarities among different racial/ethnic and gender groups; 2) to investigate the concern themes in their expressions, including theme popularity and their sentiment towards these themes; 3) to enhance the understanding of social aspects of disaster resilience with the results of disaster response disparities. Results indicate that Hispanic and male groups are more likely to express negative sentiment. The black group pays the least attention to ‘hurricane warn’ and shows most interests in ‘pray/donate’. The white group is most optimistic about hurricane/flood impacts while the black group shows dissatisfaction towards ‘response’. The female group pays less attention to ‘hurricane warn’ while they are more optimistic towards ‘hurricane/flood impact’ and ‘response’ than the male group.
+  * **Keywords: Disaster resilienceSocial media; Sentiment analysis; Data mining; LDA topic model; Situation awareness**
 
-<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan NLP.gif'> \
-<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan results.gif'>
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi'> \
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi2'>
 
