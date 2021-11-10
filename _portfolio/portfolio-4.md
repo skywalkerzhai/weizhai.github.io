@@ -1,6 +1,6 @@
 ---
 title: "Research Theme 4——Urban Computing: Human Mobility and Land Use"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/urban data science.jpeg' width='600'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/urban computing.png' width='600'>"
 collection: portfolio
 ---
 * Paper 1: [Beyond Word2vec: An approach for urban functional region extraction and identification by combining Place2vec and POIs](https://doi.org/10.1016/j.compenvurbsys.2018.11.008)
