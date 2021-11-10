@@ -1,6 +1,6 @@
 ---
 title: "Disaster response and Twitter analysis"
-excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_sentiment.png'>"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_sentiment.jpg'>"
 collection: portfolio
 ---
 
