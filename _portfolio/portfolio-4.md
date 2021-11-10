@@ -34,7 +34,7 @@ collection: portfolio
 &nbsp;
 &nbsp;
 
-* Paper 3: [Exploring extreme commuting and its relationship to land use and socioeconomics in the central Puget Sound](https://doi.org/10.1016/j.trd.2020.102574)
+* Paper 4: [Exploring extreme commuting and its relationship to land use and socioeconomics in the central Puget Sound](https://doi.org/10.1016/j.trd.2020.102574)
   * Extreme commuters, who spend 90 min or more on one-way commuting, has been a rapidly growing group. A few studies explain extreme commuting from the socioeconomic and land-use perspectives. However, little research takes spatial variations into account, nor does it make a comparison of different transportation modes. This paper applies Geographically Weighted Regression (GWR) model and binary logistic model to explore extreme commuting and its relationship to land-use and socioeconomic attributes in the central Puget Sound. Data used include the Census Transportation Planning Package (CTPP) at the census tract level and the Puget Sound Travel Survey of the individual households. The results demonstrate both significant local variations of the effects of influencing factors and the differences in different transportation modes. These findings indicate that extreme commuting is not necessarily a constrained choice behavior due to socioeconomic disadvantages and that urban land-use planning is significant in explaining extreme commuting.
   * **Keywords: Extreme commuting; Land use; Socioeconomics; Spatial variation; Central Puget Sound**
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/PartD1.png' width='600'>\
