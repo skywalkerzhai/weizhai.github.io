@@ -25,7 +25,7 @@ collection: portfolio
 * Paper 3: [Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic
 ](https://doi.org/10.1016/j.scs.2021.102757)
   * Social distancing and particularly staying at home are effective public health responses to the COVID-19 pandemic. The sheer scale of behavior changes across a mass population scale is unprecedented and will undoubtedly cause disproportionate hardships for certain vulnerable groups of population and marginalized communities during different periods of the pandemic. However, at the community level, few studies have considered the spatial and temporal variations in such public health behavior changes during this pandemic. We applied a geographically and temporally weighted regression (GTWR) to analyze the spatiotemporal pattern of community stay-at-home behaviors against social vulnerability indicators at the census tract level in New York City from March to August 2020. Our findings are generally supporting the conventional wisdom of social vulnerability yet they also offer new insights.
-  * **Social vulnerability; Social distancing; Big data; COVID-19; GTWR**\
+  * **Social vulnerability; Social distancing; Big data; COVID-19; GTWR** \
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/SCS4.jpg' width='600'>
 <hr style="border:2px solid grey">
 
