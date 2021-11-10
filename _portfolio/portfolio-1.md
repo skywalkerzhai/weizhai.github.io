@@ -11,7 +11,7 @@ collection: portfolio
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/DL_damage.jpg'>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nGs48HGnRN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-----
+<hr style="border:2px solid blue"> </hr>
 &nbsp;
 &nbsp;
 
@@ -22,7 +22,7 @@ collection: portfolio
 
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_framework.jpg'> \
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_DL.jpg'>
-----
+<hr style="border:2px solid blue"> </hr>
 &nbsp;
 &nbsp;
 * Paper 3: [Prototypical Resilience Projects for Postdisaster Recovery Planning: From Theory to Action](https://doi.org/10.1177/0739456X211048928)
