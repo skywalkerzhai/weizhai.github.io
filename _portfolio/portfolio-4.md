@@ -1,5 +1,5 @@
 ---
-title: "Research Theme 4: Urban Data Science: Human Mobility and Land Use"
+title: "Research Theme 4: Urban Computing: Human Mobility and Land Use"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/AI_resilience.jpg' width='600'>"
 collection: portfolio
 ---
