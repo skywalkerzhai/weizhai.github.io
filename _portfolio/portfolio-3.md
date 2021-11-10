@@ -1,5 +1,5 @@
 ---
-title: "3.Disaster Recovery: Plan Evaluation"
+title: "3.Disaster Recovery: Plan Evaluation with NLP"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/plan evaluation.jpg'>"
 collection: portfolio
 ---
