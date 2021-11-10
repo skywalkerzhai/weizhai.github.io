@@ -1,5 +1,5 @@
 ---
-title: "1.Disaster Damage and Google Street View Image"
+title: "1.Disaster Damage Assessment and Google Street View"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg'>"
 collection: portfolio
 ---
