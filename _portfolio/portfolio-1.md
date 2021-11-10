@@ -1,5 +1,5 @@
 ---
-title: "Disaster Damage and Google Street View Image"
+title: "[[Disaster Damage and Google Street View Image]] (https://doi.org/10.1016/j.apgeog.2020.102252)"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg'>"
 collection: portfolio
 ---
