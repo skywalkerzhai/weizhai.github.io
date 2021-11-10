@@ -17,7 +17,7 @@ collection: portfolio
 * Paper 2: [The impact of ethnic segregation on neighborhood-level social distancing in the United States amid the early outbreak of COVID-19](https://doi.org/10.1177/00420980211050183)
   * The COVID-19 pandemic has been argued to be the ‘great equaliser’, but, in fact, ethnically and racially segregated communities are bearing a disproportionate burden from the disease. Although more people have been infected and died from the disease among these minority communities, still fewer people in these communities are complying with the suggested public health measures like social distancing. The factors contributing to these ramifications remain a long-lasting debate, in part due to the contested theories between ethnic stratification and ethnic community. To offer empirical evidence to this theoretical debate, we tracked public social-distancing behaviours from mobile phone devices across urban census tracts in the United States and employed a difference-in-difference model to examine the impact of racial/ethnic segregation on these behaviours. Specifically, we focussed on non-Hispanic Black and Hispanic communities at the neighbourhood level from three principal dimensions of ethnic segregation, namely, evenness, exposure, and concentration.
   * **Big data; COVID-19; Ethnic segregation; Social distancing**
-<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/USJ1.png' width='600'>
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/USJ1.jpg' width='600'>
 <hr style="border:2px solid grey">
 
 * Paper 3: [Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic
