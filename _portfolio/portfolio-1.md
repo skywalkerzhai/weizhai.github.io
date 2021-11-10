@@ -12,7 +12,6 @@ collection: portfolio
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nGs48HGnRN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-\
 
 
 * Paper 2: [Examine the effects of neighborhood equity on disaster situational awareness: Harness machine learning and geotagged Twitter data](https://doi.org/10.1016/j.ijdrr.2020.101611)
