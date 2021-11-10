@@ -26,15 +26,6 @@ Work experience
 * 2021-, Hong Kong Baptist University
   * Assistant Professor
 
-* 2017-2021, University of Florida
-  * Research Assistant
-
-* 2015-2017, Tsinghua University
-  * Research Assistant
-
-* 2014 Fall &2016 Fall, China Academy of Urban Planning & Design
-  * Intern
-
 Teaching experience
 ======
 * Hong Kong Baptist University
