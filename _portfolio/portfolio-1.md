@@ -30,7 +30,6 @@ collection: portfolio
 
   * Citizens with different demographic characters presented varying responses and behaviors in the same disasters. Their divergent responses can impact their actual damages during crises. Previous studies have employed social media for analyzing citizens’ crisis responses. However, these studies missed the demographic dimension. To resolve this limitation, this research proposes three objectives: 1) to explore the variances of sentiment polarities among different racial/ethnic and gender groups; 2) to investigate the concern themes in their expressions, including theme popularity and their sentiment towards these themes; 3) to enhance the understanding of social aspects of disaster resilience with the results of disaster response disparities. Results indicate that Hispanic and male groups are more likely to express negative sentiment. The black group pays the least attention to ‘hurricane warn’ and shows most interests in ‘pray/donate’. The white group is most optimistic about hurricane/flood impacts while the black group shows dissatisfaction towards ‘response’. The female group pays less attention to ‘hurricane warn’ while they are more optimistic towards ‘hurricane/flood impact’ and ‘response’ than the male group.
   * **Keywords: Disaster resilienceSocial media; Sentiment analysis; Data mining; LDA topic model; Situation awareness**
-
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi.jpg'> \
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi2.jpg'>
 
