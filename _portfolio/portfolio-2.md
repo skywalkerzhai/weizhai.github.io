@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Disaster response and Twitter analysis"
+excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/twitter_sentiment.png'>"
 collection: portfolio
 ---
 
