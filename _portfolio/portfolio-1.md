@@ -36,7 +36,7 @@ collection: portfolio
 
 * AI for Earth Grant: Evaluation and Prediction of American’s Mobility under Extreme Weather Events using Artificial Intelligence
 
-  * This project addresses the challenge of evaluation and prediction of human mobility under EWEs, which are impacted by the changing climate. Artificial Intelligence can give people more accurate predictions to help reduce the potential impacts of EWEs on human mobility, which plays a critical role in developing evacuation strategies, saving lives, reducing economic loss, planning effective humanitarian relief, and so on. Taking advantage of AI techniques, our proposed project aims to predict human mobility under EWEs across America’s big cities. 
+  * This project addresses the challenge of evaluation and prediction of human mobility under EWEs, which are impacted by the changing climate. Artificial Intelligence can give people more accurate predictions to help reduce the potential impacts of EWEs on human mobility, which plays a critical role in developing evacuation strategies, saving lives, reducing economic loss, planning effective humanitarian relief, and so on. Taking advantage of AI techniques, our  project aims to predict human mobility under EWEs across America’s big cities. 
   * **Keywords: Extreme weather; AI; human mobility**\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/output_20_0.png' width='600'> \
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/output_21_0.png' width='600'> \
