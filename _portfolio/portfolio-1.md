@@ -30,7 +30,9 @@ collection: portfolio
   * **Keywords: Disaster resilience; Social media; Sentiment analysis; Data mining; LDA topic model; Situation awareness**\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi.jpg' width='600'> \
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi2.jpg' width='600'>
-
+<hr style="border:2px solid grey">
+&nbsp;
+&nbsp;
 
 * AI for Earth Grant: Evaluation and Prediction of American’s Mobility under Extreme Weather Events using Artificial Intelligence
   * This project addresses the challenge of evaluation and prediction of human mobility under EWEs, which are impacted by the changing climate. Artificial Intelligence can give people more accurate predictions to help reduce the potential impacts of EWEs on human mobility, which plays a critical role in developing evacuation strategies, saving lives, reducing economic loss, planning effective humanitarian relief, and so on. Taking advantage of AI techniques, our proposed project aims to predict human mobility under EWEs across America’s big cities. 
