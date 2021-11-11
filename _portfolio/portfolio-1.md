@@ -1,5 +1,5 @@
 ---
-title: "Research Theme 1——Artificial Intelligence, Disaster Resilience, and Social Vulnerability"
+title: "Research Theme 1——Artificial Intelligence, Climate Resilience, and Social Vulnerability"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/AI_resilience.jpg' width='600'>"
 collection: portfolio
 ---
