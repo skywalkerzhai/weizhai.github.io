@@ -27,7 +27,14 @@ collection: portfolio
 * Paper 3: [Social media for enhanced understanding of disaster resilience during Hurricane Florence](https://doi.org/10.1016/j.ijinfomgt.2020.102289)
 
   * Citizens with different demographic characters presented varying responses and behaviors in the same disasters. Their divergent responses can impact their actual damages during crises. Previous studies have employed social media for analyzing citizens’ crisis responses. However, these studies missed the demographic dimension. To resolve this limitation, this research proposes three objectives: 1) to explore the variances of sentiment polarities among different racial/ethnic and gender groups; 2) to investigate the concern themes in their expressions, including theme popularity and their sentiment towards these themes; 3) to enhance the understanding of social aspects of disaster resilience with the results of disaster response disparities. Results indicate that Hispanic and male groups are more likely to express negative sentiment. The black group pays the least attention to ‘hurricane warn’ and shows most interests in ‘pray/donate’. The white group is most optimistic about hurricane/flood impacts while the black group shows dissatisfaction towards ‘response’. The female group pays less attention to ‘hurricane warn’ while they are more optimistic towards ‘hurricane/flood impact’ and ‘response’ than the male group.
-  * **Keywords: Disaster resilienceSocial media; Sentiment analysis; Data mining; LDA topic model; Situation awareness**\
+  * **Keywords: Disaster resilience; Social media; Sentiment analysis; Data mining; LDA topic model; Situation awareness**\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi.jpg' width='600'> \
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/faxi2.jpg' width='600'>
 
+
+* AI for Earth Grant: Evaluation and Prediction of American’s Mobility under Extreme Weather Events using Artificial Intelligence
+  * This project addresses the challenge of evaluation and prediction of human mobility under EWEs, which are impacted by the changing climate. Artificial Intelligence can give people more accurate predictions to help reduce the potential impacts of EWEs on human mobility, which plays a critical role in developing evacuation strategies, saving lives, reducing economic loss, planning effective humanitarian relief, and so on. Taking advantage of AI techniques, our proposed project aims to predict human mobility under EWEs across America’s big cities. 
+  * **Keywords: Extreme weather; AI; human mobility**\
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/output_20_0.png' width='600'> \
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/output_21_0.png' width='600'> \
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/output_53_0.png' width='600'> 
