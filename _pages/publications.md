@@ -14,7 +14,7 @@ author_profile: true
  
   * **Zhai, W.#**, Peng, Z. R, Bai, X. (2021). Prototypical Resilience Projects for Postdisaster Recovery Planning: From Theory to Action. *Journal of Planning Education and Research.* [[Link]](https://journals.sagepub.com/eprint/2XZCVZQQNWAKW7QDWK4H/full)
  
-  * Han,Y., Mao, L., Chen, X., **Zhai, W.**, Peng, Z.R., Mozumder, P. (2021). Agent-based modeling to evaluate human-environment interactions in community flood risk mitigation. *Risk Analysis*.
+  * Han,Y., Mao, L., Chen, X., **Zhai, W.**, Peng, Z.R., Mozumder, P. (2021). Agent-based modeling to evaluate human-environment interactions in community flood risk mitigation. *Risk Analysis*. [[Link]](http://doi.org/10.1111/risa.13854)
  
   * Bai, X., Steiner, R, **Zhai, W.#** (2021). Beyond Neighborhood Design——Exploring the Effects of Smart Growth on Older Adults’ Travel Behavior over Time. *Journal of Planning Education and Research.* [[Link]](https://doi.org/10.1177/0739456X211020352)
   
