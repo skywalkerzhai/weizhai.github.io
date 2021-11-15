@@ -7,8 +7,7 @@ date: 2022-01-06
 location: "Hong Kong SAR, China"
 ---
 
-| Lectures     | Topics                                                                                    |
-| ------------ | ----------------------------------------------------------------------------------------- |
+| **Lectures** | **Topics**                                                                                    |
 | Lecture 1    | I) Introduction: Overview and logistics                                                   |
 | Lecture 2    | II) Urban planning, reforming, oppressive, or what?A brief clarification                  |
 |              | III) Urbanisation and planning in Britain                                                 |
