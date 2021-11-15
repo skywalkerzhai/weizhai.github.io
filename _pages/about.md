@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Wei Zhai is an Assistant Professor in the Department of Geography at Hong Kong Baptist University. Wei  applies a multidisciplinary approach to bridge Spatial Data Science with Urban Resilience and Social Vulnerability, moving from data to knowledge, policy, planning, and action. Wei is the PI for the AI for Earth Grant from Microsoft.
 <br/><br/> 
-Research Interests: Urban Resilience, Social Vulnerability, Spatial Data Science, GeoAI, Transport Geography
+Research Interests: Urban Resilience, Social Vulnerability, Urban Computing, Spatial Data Science, GeoAI
 <br/><br/> 
 Email: weizhai@hkbu.edu.hk
 
