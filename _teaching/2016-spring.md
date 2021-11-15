@@ -8,7 +8,6 @@ location: "Hong Kong SAR, China"
 ---
 
 | Lectures   | Topics                                                          |
-| ---------- | --------------------------------------------------------------- |
 | Lecture 1  | Themes in geographical studies: A global view                   |
 | Lecture 2  | Processes in the geosphere (landform evolution in Hong Kong)\*  |
 | Lecture 3  | Processes in the atmosphere (influence of weather/climate)      |
