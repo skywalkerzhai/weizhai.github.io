@@ -12,7 +12,8 @@ collection: portfolio
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/DL_damage.jpg' width='600'>\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/damag_GSV.jpg' width='600'>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nGs48HGnRN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Correction%20Network/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+<iframe width="800" height="315" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Correction%20Network/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="border:2px solid grey">
 &nbsp;
