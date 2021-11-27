@@ -27,16 +27,3 @@ Work experience
 * 2021-, Hong Kong Baptist University
   * Assistant Professor
 
-Teaching experience
-======
-* Hong Kong Baptist University
-  * Instructor. Undergraduate Level, Course: GEOG1005 Geography and the Contemporary World
-  * Instructor. Undergraduate Level, Course: GEOG4086 Urban Planning
-
-* University of Florida
-  * Teaching Assistant. 2021, Graduate Level, Course: URP 6821 Transportation and Land Use Model
-  * Teaching Assistant. 2019, Graduate Level, Course: URP 6821 Transportation and Land Use Model (Evaluation 4.75/5.0)  
-
-* Tsinghua University
-  * Teaching Assistant, 2016, Undergraduate Level, Course: Introduction to Human Geography
-
