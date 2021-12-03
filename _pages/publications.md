@@ -20,7 +20,7 @@ author_profile: true
   
   * Fu, X., **Zhai, W.#** (2021).  [Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic. *Sustainable Cities and Society.*](https://doi.org/10.1016/j.scs.2021.102757)
 
-  * Yuan, F., Li, M., Liu, R., Zhai, W., Qi, B. (2021). [Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. *International Journal of Information Management.*](https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
+  * Yuan, F., Li, M., Liu, R., **Zhai, W.**, Qi, B. (2021). [Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. *International Journal of Information Management.*](https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
 
 
 * Year 2020
