@@ -26,5 +26,11 @@ Work experience
 * 2021-, Hong Kong Baptist University
   * Assistant Professor
   
+Service
+======
+* Associate Editor, Travel Behaivour & Society, 2022-,
+* Reviewer for Annals of the American Association of Geographers; Cities; Travel Behavior and Society; Journal of Advanced Transportation; Computational Urban Science; International Journal of Disaster Risk Reduction; Applied Geography; Journal of Cleaner Production; Remote Sensing
+
+
 <body background="https://skywalkerzhai.github.io/weizhai.github.io/images/background.jpg">
 
