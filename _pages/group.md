@@ -10,7 +10,7 @@ Guangchun Zhong\
 Ph.D Student in Urban Planning and Design, Nanjing University
 Master of Engineering in Disaster Mitigation for Structures, Tongji University, 2020, 2021\
 Bachelor of Engineering in Civil Engineering, Tongji University, China, 2019\
-<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/Zhong.jpg' width='200' style="border-radius:50%">
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/zhong.jpg' width='200' style="border-radius:50%">
 
 **Research Assistant**\
 Xiaoxiao Liu\
