@@ -7,7 +7,7 @@ author_profile: true
 
 **Visiting PhD Student**\
 Guangchun Zhong\
-Ph.D Student in Urban Planning and Design, Nanjing University，China, 2021-\
+Ph.D Student in Urban Planning and Design, Nanjing University，China, 2020-\
 Master of Engineering in Disaster Mitigation for Structures, Tongji University, China, 2020\
 Bachelor of Engineering in Civil Engineering, Tongji University, China, 2019\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/zhong.jpg' width='200' style="border-radius:50%">
