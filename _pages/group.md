@@ -7,23 +7,23 @@ author_profile: true
 
 **Visiting PhD Student**\
 Guangchun ZHONG\
-Ph.D Student in Urban Planning and Design, Nanjing University，China, 2020-\
-Master of Engineering in Disaster Mitigation for Structures, Tongji University, China, 2020\
-Bachelor of Engineering in Civil Engineering, Tongji University, China, 2019\
+Ph.D Student, Urban Planning and Design, Nanjing University，China, 2020-\
+M.E, Disaster Mitigation for Structures, Tongji University, China, 2020\
+B.E, Civil Engineering, Tongji University, China, 2019\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/zhong.jpg' width='200' style="border-radius:50%">
 
 **Research Assistant**\
 Xiaoxiao LIU\
-Master of Science in Law, Northwestern University, USA, 2021\
-Bachelor of Engineering in Internet of Things Engineering, University of Science and Technology Beijing, China, 2019\
+M.E, Law, Northwestern University, USA, 2021\
+B.E, Internet of Things Engineering, University of Science and Technology Beijing, China, 2019\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/xiaoxiao.jpg' width='200' style="border-radius:50%">
 
 **Research Assistant**\
 Hang YU\
-Bachelor of Science in Aquarium Science and Technology, Huazhong Agricultural University, China, 2022\
+B.S, Aquarium Science and Technology, Huazhong Agricultural University, China, 2022\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/yuhang.png' width='200' style="border-radius:50%">
 
 **Research Assistant**\
 Chenfei XIONG\
-Bachelor of Engineering in Material Science and Engineering, Huazhong University of Science and Technology，China, 2022\
+B.E, Material Science and Engineering, Huazhong University of Science and Technology，China, 2022\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/chenfei.jpg' width='200' style="border-radius:50%">
