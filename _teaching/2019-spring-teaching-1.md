@@ -7,8 +7,7 @@ date: 2022-01-06
 location: "Hong Kong SAR, China"
 ---
 
-| **Lectures**            | **Topics**                                        |
-| ------------------- | --------------------------------------------- |
+|**Lectures**         | **Topics**                                    |
 | Lecture 1           | Introduction: overview and logistics          |
 | Urban Environment   |
 | Lecture 2           | Origins and criticism of modern city planning |
