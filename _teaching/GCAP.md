@@ -1,21 +1,17 @@
 ---
-title: "GEOG1005 Geography and the Contemporary World"
+title: "Developing Interdisciplinary Field Studies for Environmental Issues"
 collection: teaching
 type: "Undergraduate Course"
 venue: "Hong Kong Baptist University"
-date: 2021-09-01
+date: 2022-02-01
 location: "Hong Kong SAR, China"
 ---
 
-|**Lectures**| **Topics**                                                      |
-| Lecture 1  | Themes in geographical studies: A global view                   |
-| Lecture 2  | Processes in the geosphere (landform evolution in Hong Kong)\*  |
-| Lecture 3  | Processes in the atmosphere (influence of weather/climate)      |
-| Lecture 4  | Processes in the biosphere (life-support system & biodiversity) |
-| Lecture 5  | Energy and the environment                                      |
-| Lecture 6  | Globalization: economic, cultural and physical aspects          |
-| Lecture 7  | Urbanization and urban re-development\*                         |
-| Lecture 8  | The making of cultural landscapes                               |
-| Lecture 9  | Transportation (ICT, modern life & geography)                   |
-| Lecture 10 | The application of GIS/Remote Sensing in the modern world       |
-| Lecture 11 | Geography, China and the World                                  |
+This is an Experiential-learning course. This course provides experiential learning opportunities for students to apply their knowledge and skills to tackle complex real-life problems via developing and organising field studies. Students will identify environmental or social issues for their field studies, in which they can engage the communities to obtain first-hand materials and feedback for their investigating issues. Students will have the opportunities to apply their interdisciplinary knowledge for designing a field trip study to investigate/research these issues. 
+
+|**Lectures**| **Approx. hours**                                                      |
+| I. Overviews of Environmental or Social Issues with Interdisciplinary Approach | 6                      |
+| II. Training Sessions: Field Study, Research and Communication                 | 6                      |
+| III.      Pre-fieldwork Workshop                                               | 6                      |
+| IV.      Field Activities                                                      | 39                     |
+| V.      Post-fieldwork Workshops                                               | 9                      |
