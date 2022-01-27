@@ -25,5 +25,5 @@ Bachelor of Science in Aquarium Science and Technology, Huazhong Agricultural Un
 
 **Research Assistant**\
 Chenfei XIONG\
-Bachelor of Engineering in Material Science and Engineering, China, 2022\
+Bachelor of Engineering in Material Science and Engineering, Huazhong University of Science and Technology，China, 2022\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/chenfei.jpg' width='200' style="border-radius:50%">
