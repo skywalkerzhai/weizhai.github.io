@@ -21,7 +21,7 @@ Bachelor of Engineering in Internet of Things Engineering, University of Science
 **Research Assistant**\
 Hang YU\
 Bachelor of Science in Aquarium Science and Technology, Huazhong Agricultural University, China, 2022\
-<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/yuhang.jpg' width='200' style="border-radius:50%">
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/yuhang.png' width='200' style="border-radius:50%">
 
 **Research Assistant**\
 Chenfei XIONG\
