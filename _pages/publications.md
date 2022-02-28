@@ -8,7 +8,7 @@ author_profile: true
 * Year 2021
   * Fu, X., Li, C., **Zhai, W.#** (2022). Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*
   
-  * Lin, Y., Peng, C., Shu, J., ** Zhai, W.** , & Cheng, J. (2022). [Spatiotemporal characteristics and influencing factors of urban resilience efficiency in the Yangtze River Economic Belt, China. *Environmental Science and Pollution Research*, 1-20.](https://link.springer.com/article/10.1007/s11356-021-18235-2)
+  * Lin, Y., Peng, C., Shu, J., **Zhai, W.** , & Cheng, J. (2022). [Spatiotemporal characteristics and influencing factors of urban resilience efficiency in the Yangtze River Economic Belt, China. *Environmental Science and Pollution Research*, 1-20.](https://link.springer.com/article/10.1007/s11356-021-18235-2)
 
 * Year 2021
   * **Zhai, W.#** , Liu, M., Fu, X., Peng, Z.R. (2021). [American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.*](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
