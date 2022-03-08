@@ -6,11 +6,15 @@ author_profile: true
 ---
 (# Corresponding Author)
 * Year 2021
-  * Fu, X., Li, C., **Zhai, W.#** (2022). Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*
-  
+
+  * Fu, X., Li, C., **Zhai, W.#**. (2022). Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*
+
+  * Li, S., **Zhai, W.**, Jiao, J., Wang, C.(2022). Who loses and who wins in the ride-hailing era? A case study of Austin, Texas.  *Transport Policy.* 
+
   * Lin, Y., Peng, C., Shu, J., **Zhai, W.** , & Cheng, J. (2022). [Spatiotemporal characteristics and influencing factors of urban resilience efficiency in the Yangtze River Economic Belt, China. *Environmental Science and Pollution Research*, 1-20.](https://link.springer.com/article/10.1007/s11356-021-18235-2)
 
 * Year 2021
+
   * **Zhai, W.#** , Liu, M., Fu, X., Peng, Z.R. (2021). [American Inequality Meets COVID-19: Uneven Spread of the Disease across Communities. *Annals of the American Association of Geographers.*](https://www.tandfonline.com/doi/abs/10.1080/24694452.2020.1866489?journalCode=raag21)
   
   * **Zhai, W.#**, Yue, H. [Economic resilience during COVID-19: An insight from permanent business closures. *Environment and Planning A: Economy and Space.*](https://doi.org/10.1177/0308518X211055181)
@@ -26,7 +30,6 @@ author_profile: true
   * Fu, X., **Zhai, W.#** (2021).  [Examining the Spatial and Temporal Relationship Between Social Vulnerability and Stay-at-home Behaviors in New York City during the COVID-19 Pandemic. *Sustainable Cities and Society.*](https://doi.org/10.1016/j.scs.2021.102757)
 
   * Yuan, F., Li, M., Liu, R., **Zhai, W.**, Qi, B. (2021). [Social Media for Enhanced Understanding of Disaster Resilience during Hurricane Florence. *International Journal of Information Management.*](https://www.sciencedirect.com/science/article/pii/S0268401220314882?dgcid=coauthor)
-
 
 * Year 2020
 
