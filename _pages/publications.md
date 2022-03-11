@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (# Corresponding Author)
-* Year 2021
+* Year 2022
 
   * Fu, X., Li, C., **Zhai, W.#**. (2022). Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*
 
