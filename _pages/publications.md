@@ -9,7 +9,7 @@ author_profile: true
 
   * Fu, X., Li, C., **Zhai, W.#**. (2022). Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*
 
-  * Li, S., **Zhai, W.**, Jiao, J., Wang, C.(2022). Who loses and who wins in the ride-hailing era? A case study of Austin, Texas.  *Transport Policy.* 
+  * Li, S., **Zhai, W.**, Jiao, J., Wang, C.(2022). [Who loses and who wins in the ride-hailing era? A case study of Austin, Texas.  *Transport Policy.*](https://www.sciencedirect.com/science/article/abs/pii/S0967070X22000750)
 
   * Lin, Y., Peng, C., Shu, J., **Zhai, W.** , & Cheng, J. (2022). [Spatiotemporal characteristics and influencing factors of urban resilience efficiency in the Yangtze River Economic Belt, China. *Environmental Science and Pollution Research*, 1-20.](https://link.springer.com/article/10.1007/s11356-021-18235-2)
 
