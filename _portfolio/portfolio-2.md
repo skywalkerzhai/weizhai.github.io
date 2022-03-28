@@ -20,5 +20,5 @@ collection: portfolio
   * **Take away for practice:** NLP represents a valuable addition to the planner’s toolbox: topic modeling coupled with other NLP techniques can help planners to effectively discover key topics in plans, to identify planning priorities, to identify plans of specific emphasis, and to find relevant policies. 
 
   * **Keywords: plan evaluation, natural language processing, machine learning, urban resilience**\
-<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/100_resilient_cities.jpg' width='600'>
+<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/100_resilient_cities.jpg' width='600'>\
 <br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/Diagram.jpg' width='600'>
