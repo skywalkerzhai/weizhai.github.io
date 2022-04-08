@@ -1,5 +1,5 @@
 ---
-title: "Research Theme 1——Artificial Intelligence, Big Data, and Climate Resilience"
+title: "Research Theme 1——Data Science of Disaster Resilience"
 excerpt: "<br/><img src='https://skywalkerzhai.github.io/weizhai.github.io/images/AI_resilience.jpg' width='600'>"
 collection: portfolio
 ---
