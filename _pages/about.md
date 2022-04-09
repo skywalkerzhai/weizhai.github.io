@@ -16,19 +16,19 @@ Email: weizhai@hkbu.edu.hk
 
 Education
 ======
-* Ph.D. in Urban and Regional Planning, University of Florida, 2021
-* M.Eng. in Computer Engineering, University of Florida, 2020
-* M.Eng. in Urban Planning, Tsinghua University, 2017
-* B.Eng. in Urban Planning, Hunan University, 2015
+* Ph.D. in Urban and Regional Planning, University of Florida, 2021 May
+* M.Eng. in Computer Engineering, University of Florida, 2020 May
+* M.Eng. in Urban Planning, Tsinghua University, 2017 June
+* B.Eng. in Urban Planning, Hunan University, 2015 June
 
 Work experience
 ======
-* 2021-, Hong Kong Baptist University
+* 2021 August-, Hong Kong Baptist University
   * Assistant Professor
   
 Service
 ======
-* Associate Editor, Travel Behaivour & Society, 2022-,
+* Editoral Member, Travel Behaivour & Society, 2022-,
 * Reviewer for Annals of the American Association of Geographers; Computers, Environment, and Urban Systems; Cities; Travel Behavior and Society; Journal of Advanced Transportation; Computational Urban Science; International Journal of Disaster Risk Reduction; Applied Geography; Journal of Cleaner Production; Remote Sensing; International Journal of Information Management; BMJ Global Health; Environment and Planning A; International Journal of Environmental Research and Public Health
 
 
