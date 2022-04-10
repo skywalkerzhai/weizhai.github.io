@@ -53,3 +53,6 @@ author_profile: true
   * **Zhai, W.**, Bai, X., Peng, Z. R. , & Gu, C. (2019). [From edit distance to augmented space-time-weighted edit distance: Detecting and clustering patterns of human activities in Puget Sound region. *Journal of Transport Geography*, 78, 41-55.](https://doi.org/10.1016/j.jtrangeo.2019.05.003)
 
   * **Zhai, W.**, Bai, X., Peng, Z. R. , & Gu, C. (2019). [A bottom-up transportation network efficiency measuring approach: A case study of taxi efficiency in New York City. *Journal of Transport Geography*, 80. 102502.](https://doi.org/10.1016/j.jtrangeo.2019.102502)
+
+* Year 2018
+  * (Book Review) Zhai, W. (2018).[ How to kill a city: Gentrification, inequality, and the fight for the neighborhood, by Peter Moskowitz. Journal of the American Planning Association, 84(2), 203.](http://www.thecyberhood.net/documents/book_review/peter.pdf)
