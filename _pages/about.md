@@ -14,7 +14,7 @@ Research Interests: Urban Resilience, Environmental Planning, Urban Computing, U
 <br/><br/> 
 Email: weizhai@hkbu.edu.hk
 <br/><br/> 
-Beginning August 2022, Wei will join the School of Architecture and Planning at University of Texas as San Antonio.
+Beginning August 2022, Wei will join the School of Architecture and Planning at the University of Texas as San Antonio (UTSA).
 
 Education
 ======
