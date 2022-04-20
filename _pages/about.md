@@ -31,7 +31,7 @@ Work experience
 Service
 ======
 * Editoral Board Member, Travel Behaivour & Society, 2022-,
-* Reviewer for Annals of the American Association of Geographers; Computers, Environment, and Urban Systems; Cities; Travel Behavior and Society; Journal of Advanced Transportation; Computational Urban Science; International Journal of Disaster Risk Reduction; Applied Geography; Journal of Cleaner Production; Remote Sensing; International Journal of Information Management; BMJ Global Health; Environment and Planning A; International Journal of Environmental Research and Public Health
+* Reviewer for Annals of the American Association of Geographers; Computers, Environment, and Urban Systems; Cities; Travel Behavior and Society; Journal of Advanced Transportation; Computational Urban Science; International Journal of Disaster Risk Reduction; Applied Geography; Journal of Cleaner Production; Remote Sensing; International Journal of Information Management; BMJ Global Health; Environment and Planning A; International Journal of Environmental Research and Public Health; Plos One
 
 
 <body background="https://skywalkerzhai.github.io/weizhai.github.io/images/background.jpg">
