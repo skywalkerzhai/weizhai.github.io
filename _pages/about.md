@@ -14,7 +14,7 @@ Wei Zhai is a Tenure-Track Assistant Professor in the Department of Geography at
 <br/><br/> 
 **Email**: weizhai@hkbu.edu.hk
 <br/><br/> 
-**News**: Beginning August 2022, Wei will join the School of Architecture and Planning as Assistant Professor (also an Affiliated Faculty in Electrical and Computer Engineering) at the University of Texas at San Antonio (UTSA).
+**News**: Beginning August 2022, Wei will join the School of Architecture and Planning as Assistant Professor at the University of Texas at San Antonio (UTSA).
 
 Education
 ======
