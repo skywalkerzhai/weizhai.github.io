@@ -13,7 +13,6 @@ Beginning in the fall of 2022, Dr. Wei Zhai is an Assistant Professor of Urban a
 Dr. Zhai’s research interests center on how to make cities more smart and resilient in the face of local and global environmental change. More specifically, his current research agenda is threefold. (i) He leverages emerging big data and advanced methods to reexamine disaster resilience before, during, and after extreme weather events. (ii) He also studies the quality of planning documents and how plans can be improved to foster transformative actions in the context of climate change. (iii) His third research area is developing and applying geospatial data science methods for better sensing human behavior, social equity, and urban dynamics.
 <br/><br/>
 Dr. Zhai’s recent work is published in the *Journal of Planning Education and Research*, *Journal of the American Planning Association*, *Urban Studies*, and *Annals of the American Association of Geographers*. Through an emphasis on creative independent thinking, mutual learning, and special attention to diversity, he aims to create an inclusive and encouraging learning environment for students. He looks forward to collaborating widely with researchers in the field of Urban Planning, Geography, GIScience, Computer Science,Trasnportation, etc. 
-
 <br/><br/> 
 **Research Interests**: Urban Resilience, Environmental Planning, Urban Computing, Urban Data Science, GeoAI
 <br/><br/> 
