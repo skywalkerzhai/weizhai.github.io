@@ -20,7 +20,6 @@ Dr. Zhai’s recent work is published in the *Journal of Planning Education and 
 **Email**: wei.zhai@utsa.edu
 <br/><br/> 
 
-
 Education
 ======
 * Ph.D. in Urban and Regional Planning, University of Florida, 2021 May
