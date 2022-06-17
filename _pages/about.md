@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Beginning in the fall of 2022, Dr. Wei Zhai is an Assistant Professor of Urban and Regional Planning, focusing on urban resilience and urban science.
+Beginning in the fall of 2022, Dr. Wei Zhai is an Assistant Professor of Urban and Regional Planning at the University of Texas at San Antonio, focusing on urban resilience and urban science.
 <br/><br/> 
 Dr. Zhai’s research interests center on how to make cities more smart and resilient in the face of local and global environmental change. More specifically, his current research agenda is threefold. (i) He leverages emerging big data and advanced methods to reexamine disaster resilience before, during, and after extreme weather events. (ii) He also studies the quality of planning documents and how plans can be improved to foster transformative actions in the context of climate change. (iii) His third research area is developing and applying geospatial data science methods for better sensing human behavior, social equity, and urban dynamics.
 <br/><br/>
