@@ -31,8 +31,6 @@ Work experience
 * 2022 August- , School of Architecture and Planning, University of Texas at San Antonio
   * Assistant Professor
 
-* 2022 August- , Affiliated Faculty in Electrical and Computer Engineering, University of Texas at San Antonio
-
 * 2021 August- 2022 June, Department of Geography, Hong Kong Baptist University
   * Assistant Professor
   
