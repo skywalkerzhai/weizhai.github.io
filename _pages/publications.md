@@ -6,8 +6,9 @@ author_profile: true
 ---
 (# Corresponding Author)
 * Year 2022
+  * Huang, H., Li, Y., Zhao, Yi., **Zhai, W.#**. (2022). Analysis of the Impact of Urban Summer High Temperatures and Outdoor Activity Duration on Residents’ Emotional Health: Taking Hostility as an Example. *Frontiers in Public Health.*
 
-  * Fu, X., Li, C., **Zhai, W.#**. (2022). Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*
+  * Fu, X., Li, C., **Zhai, W.#**. (2022). [Using Natural Language Processing to Read Plans: A Study of 78 Resilience Plans From the 100 Resilient Cities Network. *Journal of the American Planning Association.*](https://doi.org/10.1080/01944363.2022.2038659)
 
   * Li, S., **Zhai, W.**, Jiao, J., Wang, C.(2022). [Who loses and who wins in the ride-hailing era? A case study of Austin, Texas.  *Transport Policy.*](https://www.sciencedirect.com/science/article/abs/pii/S0967070X22000750)
 
